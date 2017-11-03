@@ -1,6 +1,6 @@
 {
   "name": "three-helpers.svg-paths-group",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "three helpers svg-paths-group",
   "main": "build/bundle.js",
   "scripts": {
