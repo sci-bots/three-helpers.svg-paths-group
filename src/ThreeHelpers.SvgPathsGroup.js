@@ -1,4 +1,4 @@
-const Two = require('two');
+const Two = require('two.js');
 const _ = require('lodash');
 
 const two = new Two();

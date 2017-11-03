@@ -2,7 +2,7 @@
   "name": "three-helpers.svg-paths-group",
   "version": "1.0.1",
   "description": "three helpers svg-paths-group",
-  "main": "index.js",
+  "main": "build/bundle.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
