@@ -1,5 +1,6 @@
 const Two = require('two.js');
 const _ = require('lodash');
+const _fp = require('lodash/fp');
 
 const two = new Two();
 
